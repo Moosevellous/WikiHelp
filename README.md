@@ -43,4 +43,5 @@ Break-in is a phenomenon that covers the transmission of sound energy into a duc
 
 #### Figure 1. Duct Break-in Geometry
 
-<img src="https://github.com/ianmichaelvillanueva/WikiHelp/blob/master/Breakout%20concept.png" width = 600>
+<img src="https://github.com/ianmichaelvillanueva/WikiHelp/blob/master/Breakin%20concept.png" width = 600>
+
