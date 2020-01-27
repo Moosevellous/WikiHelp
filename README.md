@@ -12,7 +12,7 @@ walls.
 For rectangular ducts, the transmission loss for breakout is divided into regions by frequency: a region where plane mode transmission
 within the duct is dominant; and a region where multimode transmission is dominant as shown in Figure 2.
 
-#### Transmission Loss for Rectangular Ducts
+#### Figure 2. Transmission Loss for Rectangular Ducts
 
 <img src="https://github.com/ianmichaelvillanueva/WikiHelp/blob/master/Breakout%20Graph.png" width = 500>
 
