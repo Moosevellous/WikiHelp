@@ -45,7 +45,7 @@ Break-in is a phenomenon that covers the transmission of sound energy into a duc
 
 <img src="https://github.com/ianmichaelvillanueva/WikiHelp/blob/master/Breakin%20concept.png" width = 600>
 
-The breakin transmission loss is divided in two regions separated by the frequency for the lowest acoustic cross-mode in the duct or the cutoff frequency.
+The break-in transmission loss is divided in two regions separated by the frequency for the lowest acoustic cross-mode in the duct or the cutoff frequency.
 
 If the frequency ≤ cutoff frequency, TLin is the larger value of the following equation:
 
